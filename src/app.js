@@ -21,7 +21,7 @@ app.use(express.static(publicDirPath)); //setting path for static directory
 
 app.get("", (req, res) => {
 	res.render("index", {
-		title: "Weather App",
+		title: "Weather App nnrtfgjhfnbgfnfnbsjkrufhgu",
 		name: "Prem",
 	});
 });
